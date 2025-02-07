@@ -57,3 +57,19 @@ button {
 button:hover {
     background: #ff4500;
 }
+
+.register-link {
+    margin-top: 10px;
+}
+
+.register-link a {
+    color: orange;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.register-link a:hover {
+    color: #ff4500;
+    text-decoration: underline;
+}
